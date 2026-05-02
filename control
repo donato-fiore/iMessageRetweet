@@ -1,0 +1,9 @@
+Package: com.fiore.imessageretweet
+Name: iMessageRetweet
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: rt
+Maintainer: fiore
+Author: fiore
+Section: Tweaks
+Depends: mobilesubstrate
